@@ -19,7 +19,7 @@ This project addresses **two key tasks:**
 | `Tea_Parser.ipynb`     | Парсинг данных (описания, дескрипторы и др.) с сайта dao-chai.ru. Данные парсинга в файле daochai_parsed.xlsx                                | Data scraping from dao-chai.ru (descriptions, descriptors, etc.). Parsed data is in file daochai_parsed.xlsx   |
 | `Tea_Classifier` | Четыре версии классификатора с аугментацией: син. замена через BERT, перефразирование через gemma3:1b, обрезка токенов | Four classifier notebook versions: BERT-based synonym replacement, gemma3:1b paraphrasing, right/left token trimming |
 | `Classifier_Results`  | Результаты дообучения классификатора                                            | Fine-tuned classifier results                                              |
-| `GptAugmentProgram`   | Программа для аугментации текста с использованием GPT                           | Text augmentation scripts using GPT                                        |
+| `LLMAugmentProgram`   | Программа для аугментации текста с использованием LLM                           | Text augmentation scripts using LLM                                        |
 | `TeaSommelierBot`     |  Telegram-бот «Чайный сомелье»                                                  |  The “Tea Sommelier” Telegram bot                                          |
 
 
