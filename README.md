@@ -1,4 +1,4 @@
-# Predict_Tea_Descriptors_plus_Bot_Project
+# Predict_Tea_Descriptors_and_Bot
 
 ## 🫖 Описание / Project Overview
 
